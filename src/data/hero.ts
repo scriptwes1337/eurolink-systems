@@ -1,5 +1,6 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
-    centerImageSrc: '/images/hero-mockup.webp',
-}
+  heading: "Aluminim experts with over 20 years of experience",
+  subheading:
+    "We specialize in high-quality aluminum profiles for buildings, offering customized and innovative solutions.",
+  centerImageSrc: "/images/landing-image.png",
+};

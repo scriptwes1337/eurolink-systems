@@ -4,22 +4,22 @@ import { IBenefit } from "@/types"
 
 export const benefits: IBenefit[] = [
     {
-        title: "Smart Budgeting",
-        description: "Take the guesswork out of managing your money. Our AI-powered budgeting tool adapts to your lifestyle and helps you stay on track.",
+        title: "Customized aluminiuum profile solutions",
+        description: "Some of our wide range of products include:",
         bullets: [
             {
-                title: "Intelligent Categorization",
-                description: "Automatically sorts your transactions for crystal-clear insights.",
+                title: "Glass Products",
+                description: "Glass canopies, shop-front glass, skylights, safety railing.",
                 icon: <FiBarChart2 size={26} />
             },
             {
-                title: "Customizable Goals",
-                description: "Set and track financial objectives that matter to you.",
+                title: "Aluminium products",
+                description: "Metal canopies, safety railing frame, aluminium facades",
                 icon: <FiTarget size={26} />
             },
             {
-                title: "Predictive Analysis",
-                description: "Get ahead of your finances with spending forecasts and alerts.",
+                title: "Italian firm designed Gastaldello's System ('GS')",
+                description: "The GS slim sliding door profile has a vertical frame thickness of only 30mm. It has undergone water penetration resistance testing and wind resistance testing to great extents, making it ideal for high-rise buildings.",
                 icon: <FiTrendingUp size={26} />
             }
         ],
