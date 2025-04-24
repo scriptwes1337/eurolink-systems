@@ -3,9 +3,9 @@ import { siteDetails } from "./siteDetails";
 
 export const testimonials: ITestimonial[] = [
     {
-        name: 'John Smith',
-        role: 'CEO at Company',
-        message: `${siteDetails.siteName}'s AI-driven insights have transformed how we approach financial planning for our clients. It's an invaluable resource in the modern financial landscape.`,
+        name: 'Martin Lim',
+        role: 'Director of Engineering, Mandarin Oriental',
+        message: ` Although some of our projects have been complex, we have always trusted that you and your team could get the job done – and we have never been disappointed! `,
         avatar: '/images/testimonial-1.webp',
     },
     {
