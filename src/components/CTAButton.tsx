@@ -1,9 +1,13 @@
-import { Button } from "@headlessui/react";
+
+import Link from "next/link";
 
 export default function CTAButton() {
   return (
-    <Button className="rounded bg-yellow-500 px-4 py-2 text-sm text-black data-active:bg-sky-700 data-hover:bg-sky-500">
-      Contact Us Now
-    </Button>
+    <Link
+      href="#cta"
+      className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors"
+    >
+      Contact Us
+    </Link>
   );
 }

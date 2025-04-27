@@ -7,25 +7,25 @@ export const footerDetails: {
     telephone: string;
     socials: ISocials;
 } = {
-    subheading: "Empowering businesses with cutting-edge financial technology solutions.",
+    subheading: "The aluminium experts with over 20 years of experience",
     quickLinks: [
         {
-            text: "Features",
-            url: "#features"
+            text: "Products",
+            url: "/products"
         },
         {
-            text: "Pricing",
-            url: "#pricing"
+            text: "Projects",
+            url: "/projects"
         },
         {
-            text: "Testimonials",
-            url: "#testimonials"
+            text: "About",
+            url: "/about"
         }
     ],
-    email: 'address@yoursite.com',
+    email: 'alston@eurolinesystems.com',
     telephone: '+1 (123) 456-7890',
     socials: {
-        // github: 'https://github.com',
+        // githwub: 'https://github.com',
         // x: 'https://twitter.com/x',
         twitter: 'https://twitter.com/Twitter',
         facebook: 'https://facebook.com',

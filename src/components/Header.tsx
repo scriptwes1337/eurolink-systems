@@ -24,7 +24,7 @@ const Header: React.FC = () => {
                 <nav className="shadow-md md:shadow-none bg-white md:bg-transparent mx-auto flex justify-between items-center py-2 px-5 md:py-10">
                     {/* Logo */}
                     <Link href="/" className="flex items-center gap-2">
-                        <Image src={"/images/euroline-systems-logo.png"} alt="logo" width={100} height={100}/>
+                        <Image src={"/images/euroline-systems-logo.png"} alt="logo" width={80} height={80}/>
                         <span className="manrope text-xl font-semibold text-foreground cursor-pointer">
                             {siteDetails.siteName}
                         </span>
@@ -41,7 +41,7 @@ const Header: React.FC = () => {
                         ))}
                         <li>
                             <Link href="#cta" className="text-black bg-primary hover:bg-primary-accent px-8 py-3 rounded-full transition-colors">
-                                Download
+                                Contact Us
                             </Link>
                         </li>
                     </ul>

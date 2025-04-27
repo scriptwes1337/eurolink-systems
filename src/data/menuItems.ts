@@ -16,5 +16,9 @@ export const menuItems: IMenuItem[] = [
     {
         text: "Contact",
         url: "/contact"
+    },
+    {
+        text: "About",
+        url: "/about"
     }
 ];
